@@ -24,5 +24,5 @@ Un **Banco** es un tipo de entidad financiera de crédito cuyo principal fin es 
 <br>
 
 ¿Necesitas más ayuda?  
-[Preguntas Frecuentes](https://logis.com.co/info/preguntas.php)  
-[Contacto](https://logis.com.co/info/#contact)
+	<a href="https://logis.com.co/info/preguntas.php" target="_blank">Preguntas Frecuentes</a><br>
+	<a href="https://logis.com.co/info/#contact" target="_blank">Contacto</a>
