@@ -21,8 +21,3 @@ Un **Banco** es un tipo de entidad financiera de crédito cuyo principal fin es 
         <p>3.3 Haz clic en el botón de la Impresora.</p>
         <p>3.4 Visualiza la lista de Bancos en la ventana <b>Vista Previa Informes</b>.</p>
 </details>
-<br>
-
-¿Necesitas más ayuda?  
-	<a href="https://logis.com.co/info/preguntas.php" target="_blank">Preguntas Frecuentes</a><br>
-	<a href="https://logis.com.co/info/#contact" target="_blank">Contacto</a>
