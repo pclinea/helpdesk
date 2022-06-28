@@ -1,4 +1,4 @@
-## BANCOS
+## **BANCOS**
 Sigue los pasos para la gestión de Bancos utilizados en tu negocio para gestionar el efectivo:  
 
 Un **Banco** es un tipo de entidad financiera de crédito cuyo principal fin es el control y la administración del dinero por medio de operaciones financieras.
@@ -21,6 +21,7 @@ Un **Banco** es un tipo de entidad financiera de crédito cuyo principal fin es 
         <p>3.3 Haz clic en el botón de la Impresora.</p>
         <p>3.4 Visualiza la lista de Bancos en la ventana <b>Vista Previa Informes</b>.</p>
 </details>
+<br>
 
 ¿Necesitas más ayuda?  
 [Preguntas Frecuentes](https://logis.com.co/info/preguntas.php)  
