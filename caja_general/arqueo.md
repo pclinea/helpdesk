@@ -1,24 +1,29 @@
-## **BANCOS**
+## **ARQUEO DE CAJA**
 
-Sigue los pasos para la gestión de Bancos utilizados en tu negocio para gestionar el efectivo:  
+Aquí puedes ver el detalle de Ingresos, Egresos y realizar el Cierre de Caja:  
 
-Un **Banco** es un tipo de entidad financiera de crédito cuyo principal fin es el control y la administración del dinero por medio de operaciones financieras.
+El **Arqueo de Caja** consiste en contar el efectivo que hay en caja en un momento determinado, y comprobar que coincide con el saldo contable de la cuenta que refleja el movimiento de efectivo.  
+**Fecha**: puedes revisar el Detalle de movimientos en una fecha especifica.  
 
-<details><summary class="text-primary">1. Crear un Banco</summary>
-					<p>1.1  En la esquina inferior derecha, haz clic en <b>Boton + Rojo</b></p>
-					<p>1.2 Ingresa los datos generales (Nombre del Banco,  Tipo de cuenta, No. de cuenta y Saldo inicial).</p>
-					<p>1.3 Haz clic en el bóton <b>Guardar</b></p>
+<details><summary class="text-primary">1. Ingresos</summary>
+        <p>Aquí puedes ver el detalle de los documentos de Ingreso del día ordenados por Fecha. Haz clic en <b>Ver Detalle</b>.</p>
+        <p>Puedes imprimir o Guardar como PDF.</p>
 </details>
 
-<details><summary class="text-primary">2. Editar un Banco</summary>
-				<p>2.1 Haz clic derecho sobre el Banco y selecciona la opción <b>Editar</b>.</p>
-				<p>2.2 Edita los campos requeridos del Banco.</p>
-				<p>2.3 Haz clic en el bóton <b>Guardar</b>.</p>
+<details><summary class="text-primary">2. Egresos</summary>
+        <p>Aquí puedes ver el detalle de los documentos de Egreso del día ordenados por Fecha. Haz clic en <b>Ver Detalle</b>.</p>
+        <p>Puedes imprimir o Guardar como PDF.</p>
 </details>
 
-<details><summary class="text-primary">3. Generar Reporte de Movimientos</summary>
-        <p>3.1 Haz clic en el icono <b>Buscar</b> (Accesos Directos).</p>
-        <p>3.2 Selecciona el <b>Reporte: Movimientos</b>.</p>
-        <p>3.3 Haz clic en el botón de la Impresora.</p>
-        <p>3.4 Visualiza la lista de Bancos en la ventana <b>Vista Previa Informes</b>.</p>
+<details><summary class="text-primary">3. Otros</summary>
+        <p>Aquí puedes ver el detalle de otros movimeintos (Base de Caja, Notas Credito, Notas Debito).</p>
+        <p>Tambien puedes ver <b>Total Efectivo</b> que debe existir en la Caja General (Cajon Monedero).</p>
+</details>
+
+<details><summary class="text-primary">4. Cierre de Caja</summary>
+        <p>Aquí puedes realizar el Cierre de Caja diario.</p>
+        <p>Este método contable te permite conocer si el efectivo, más otros comprobantes de pago físicos, coincide con los valores reportados de ventas en caja general.</p>
+        <p>Esta acción contabiliza todos los valores para evitar modificaciones futuras.</p>
+        <p>Los campos <b>Sobrante y Faltente</b> son informativos. Indican el descuadre en Caja General actual.</p>
+        <p>En el campo <b>TOTAL CAJA</b> digita el monto total de efectivo incluyendo base de caja.</p>
 </details>

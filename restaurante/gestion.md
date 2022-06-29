@@ -1,24 +1,22 @@
-## **BANCOS**
+## **GESTIÓN DE PEDIDOS**
 
-Sigue los pasos para la gestión de Bancos utilizados en tu negocio para gestionar el efectivo:  
+Aquí puedes gestionar las mesas, hacer pedido, cambiar de mesa, imprimir comandas, imprimir Pre-cuenta y realizar el cobro de la Mesa:  
 
-Un **Banco** es un tipo de entidad financiera de crédito cuyo principal fin es el control y la administración del dinero por medio de operaciones financieras.
-
-<details><summary class="text-primary">1. Crear un Banco</summary>
-					<p>1.1  En la esquina inferior derecha, haz clic en <b>Boton + Rojo</b></p>
-					<p>1.2 Ingresa los datos generales (Nombre del Banco,  Tipo de cuenta, No. de cuenta y Saldo inicial).</p>
-					<p>1.3 Haz clic en el bóton <b>Guardar</b></p>
-</details>
-
-<details><summary class="text-primary">2. Editar un Banco</summary>
-				<p>2.1 Haz clic derecho sobre el Banco y selecciona la opción <b>Editar</b>.</p>
-				<p>2.2 Edita los campos requeridos del Banco.</p>
-				<p>2.3 Haz clic en el bóton <b>Guardar</b>.</p>
-</details>
-
-<details><summary class="text-primary">3. Generar Reporte de Movimientos</summary>
-        <p>3.1 Haz clic en el icono <b>Buscar</b> (Accesos Directos).</p>
-        <p>3.2 Selecciona el <b>Reporte: Movimientos</b>.</p>
-        <p>3.3 Haz clic en el botón de la Impresora.</p>
-        <p>3.4 Visualiza la lista de Bancos en la ventana <b>Vista Previa Informes</b>.</p>
-</details>
+**¿Cómo Tomar un Pedido?**
+1. Selecciona la Mesa en **Mesa y Ubicación**.  
+2. En la parte izquierda puedes buscar el producto por **Nombre o Código**. Puedes filtrar los productos por Familia. Haz clic sobre el producto para seleccionarlo.  
+En la nueva Ventana agrega una **Observación** si es necesario (Sin azucar, sin cebolla) y ajusta la **Cantidad**. Haz clic en Agregar Producto.  
+3. Selecciona quien atendió la Mesa en **Atendido Por** (Mesero, Barra, Administrador)  
+Puedes separar los pedidos por Cliente en **Pedido por** (Esto nos permite hacer cobros separados en una Mesa)  
+4. Puedes **Editar** o **Eliminar** un producto de la línea de Pedido dando clic en el icono correspondiente.  
+5. En la parte inferior encontraras tres botones para:  
+- Enviar las **Comandas** a la cocina o Reenviar las comandas.  
+- Ver el **Total** acumulado de la Mesa.  
+- Realizar el proceso de Pago con **Pagar Ahora**.  
+- Cambiar de Mesa trasladando los pedidos.  
+- Imprmir la Pre-cuenta.  
+6. En la Ventana de **Pagos y Abonos** :  
+- Seleciona la **Forma de Pago** y digita el valor recibido.  
+- Haz clic en **Guardar** para registrar el Pago unicamente.  
+- Haz clic en **Guardar e Imprimir** para registrar el Pago e imprimir el recibo de venta.  
+¡Perfecto! Asi de fácil es getionar tu negocio de comidas.  

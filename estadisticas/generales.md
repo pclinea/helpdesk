@@ -1,24 +1,26 @@
-## **BANCOS**
+## **ESTADISTICAS GENERALES**
 
-Sigue los pasos para la gestión de Bancos utilizados en tu negocio para gestionar el efectivo:  
+Aquí puedes generar reportes:  
 
-Un **Banco** es un tipo de entidad financiera de crédito cuyo principal fin es el control y la administración del dinero por medio de operaciones financieras.
+Un **Reporte o Informe** te permite conocer la situación administrativa y contable de tu negocio en cualquier momento.  
 
-<details><summary class="text-primary">1. Crear un Banco</summary>
-					<p>1.1  En la esquina inferior derecha, haz clic en <b>Boton + Rojo</b></p>
-					<p>1.2 Ingresa los datos generales (Nombre del Banco,  Tipo de cuenta, No. de cuenta y Saldo inicial).</p>
-					<p>1.3 Haz clic en el bóton <b>Guardar</b></p>
-</details>
+Selecciona el Nombre de Informe.  
 
-<details><summary class="text-primary">2. Editar un Banco</summary>
-				<p>2.1 Haz clic derecho sobre el Banco y selecciona la opción <b>Editar</b>.</p>
-				<p>2.2 Edita los campos requeridos del Banco.</p>
-				<p>2.3 Haz clic en el bóton <b>Guardar</b>.</p>
-</details>
+Selecciona el periodo que deseas conocer.  
 
-<details><summary class="text-primary">3. Generar Reporte de Movimientos</summary>
-        <p>3.1 Haz clic en el icono <b>Buscar</b> (Accesos Directos).</p>
-        <p>3.2 Selecciona el <b>Reporte: Movimientos</b>.</p>
-        <p>3.3 Haz clic en el botón de la Impresora.</p>
-        <p>3.4 Visualiza la lista de Bancos en la ventana <b>Vista Previa Informes</b>.</p>
-</details>
+<details><summary class="text-primary">Acumulado Producto - Zona</summary></details>
+<details><summary class="text-primary">Utilidad General Productos</summary></details>
+<details><summary class="text-primary">Ventas Clientes - Productos</summary></details>
+<details><summary class="text-primary">Ventas Proveedor - Productos</summary></details>
+<details><summary class="text-primary">Ventas Proveedor - Zona</summary></details>
+<details><summary class="text-primary">Acumulado Tercero Auxiliar</summary></details>
+<details><summary class="text-primary">Acumulado Terceros Auxiliares</summary></details>
+<details><summary class="text-primary">Acumulado Usuarios</summary></details>
+<details><summary class="text-primary">Ventas Proveedor - Zona</summary></details>
+<details><summary class="text-primary">Ventas Familia - Zona</summary></details>
+<details><summary class="text-primary">Ventas Categoria - Zona</summary></details>
+<details><summary class="text-primary">Ventas Marca - Zona</summary></details>
+<details><summary class="text-primary">Costo Distribución - Zona</summary></details>
+<details><summary class="text-primary">Detalle Ventas - Proveedor</summary></details>
+<details><summary class="text-primary">Detalle Ventas - Documentos</summary></details>
+<details><summary class="text-primary">Detalle Compras - Documentos</summary></details>
