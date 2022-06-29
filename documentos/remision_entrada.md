@@ -1,24 +1,29 @@
-## **BANCOS**
+## **REMISIÓN DE ENTRADA**
 
-Sigue los pasos para la gestión de Bancos utilizados en tu negocio para gestionar el efectivo:  
+Sigue los pasos para la gestión de tus Remisiones de Entrada:  
 
-Un **Banco** es un tipo de entidad financiera de crédito cuyo principal fin es el control y la administración del dinero por medio de operaciones financieras.
+Una **Remisión de Entrada** registra la entrada de mercancías al almacén, dejando pendiente su correspondiente facturación en una cuenta por pagar.  
 
-<details><summary class="text-primary">1. Crear un Banco</summary>
-					<p>1.1  En la esquina inferior derecha, haz clic en <b>Boton + Rojo</b></p>
-					<p>1.2 Ingresa los datos generales (Nombre del Banco,  Tipo de cuenta, No. de cuenta y Saldo inicial).</p>
-					<p>1.3 Haz clic en el bóton <b>Guardar</b></p>
+<details><summary class="text-primary">1. Crear una Remisión de Entrada</summary>
+        <p>1.1  En la esquina inferior derecha, haz clic en <b>Boton + Rojo</b></p>
+        <p>1.2 La Fecha Expedición y Fecha Vencimiento se cargan con la fecha del día. El No. de Factura es un consecutivo automático del sistema.</p>
+        <p>*Recuerda que puedes Buscar el Proveedor o la Empresa por No. de Documento. (Selecciona el tipo de documento, digita el número de documento y haz clic en el icono de la lupa).</p>
+        <p>1.3 En la pestaña <b>Productos y Servicios</b> busca los productos o servicios por Código o Nombre. Ajusta la Cantidad, % de IVA, % de descuento si es necesario. Haz clic en <b>Agregar</b>.</p>
+        <p>1.4 En la pestaña de <b>Pagos y Abonos (F10)</b> agrega el pago digitando el valor recibido y seleccionando la Forma de pago. Haz clic en <b>Agregar</b>.</p>
+        <p>1.5 Para finalizar cierra la ventana.</p>
+        <p>*Puedes imprimir una Remisión de Entrada dando clic derecho sobre la Remisión y opción <b>Imprimir</b>.</p>
+        <p>*Puedes imprimir una Remisión de Entrada en tamaño media carta dando clic derecho sobre la Remisión y opción <b>Vista Previa</b>.</p>
+        <p>*Puedes convertir una Remisión de Entrada a Factura de Compra dando clic derecho sobre la Remisión y opción <b>Convertir</b>.</p>
 </details>
 
-<details><summary class="text-primary">2. Editar un Banco</summary>
-				<p>2.1 Haz clic derecho sobre el Banco y selecciona la opción <b>Editar</b>.</p>
-				<p>2.2 Edita los campos requeridos del Banco.</p>
-				<p>2.3 Haz clic en el bóton <b>Guardar</b>.</p>
+<details><summary class="text-primary">2. Editar una Remisión de Entrada</summary>
+        <p>2.1 Haz clic derecho sobre la Remisión de Entrada y selecciona la opción <b>Editar</b>.</p>
+        <p>2.2 Edita el Proveedor si es necesario. Agrega o elimina productos o servicios. Agrega un pago o abono. Agregra una Nota u Observación.</p>
+        <p>2.3 Haz clic en le bóton <b>Guardar</b>.</p>
 </details>
 
-<details><summary class="text-primary">3. Generar Reporte de Movimientos</summary>
+<details><summary class="text-primary">3. Buscar una Remisión de Entrada</summary>
         <p>3.1 Haz clic en el icono <b>Buscar</b> (Accesos Directos).</p>
-        <p>3.2 Selecciona el <b>Reporte: Movimientos</b>.</p>
-        <p>3.3 Haz clic en el botón de la Impresora.</p>
-        <p>3.4 Visualiza la lista de Bancos en la ventana <b>Vista Previa Informes</b>.</p>
+        <p>3.2 Digita la información en el campo por el que deseas buscar la Remisión de Entrada.</p>
+        <p>3.4 Visualiza la información en la lista General de Remisiones de Entrada.</p>
 </details>
