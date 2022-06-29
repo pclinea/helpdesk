@@ -5,7 +5,7 @@ Sigue los pasos para la gestión de las Cotizaciones:
 Una **Cotización** es un documento informativo sobre un producto o servicio que no genera registro contable.  
 
 <details><summary class="text-primary">1. Crear una Cotización</summary>
-        <p>1.1  En la esquina inferior derecha, haz clic en <b>Boton + Rojo</b><span class=" text-danger"><img src="https://logis.com.co/app/img/add.png" width="15%"></span></p>
+        <p>1.1  En la esquina inferior derecha, haz clic en <b>Boton + Rojo</b></p>
         <p>1.2 La Fecha Expedición y Fecha Vencimiento se cargan con la fecha del día. El No. de Factura es un consecutivo automático del sistema.</p>
         <p>Selecciona el vendedor y relaciona el cliente buscandolo por No. de documento o Nombre. Si el cliente es nuevo puedes crearlo desde el icono Rojo. Al guardar el Cliente se relaciona con la Cotización actual.</p>
         <p>*Recuerda que puedes Buscar el Cliente o la Empresa por No. de Documento. (Selecciona el tipo de documento, digita el número de documento y haz clic en el icono de la lupa).</p>

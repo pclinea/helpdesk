@@ -5,7 +5,7 @@ Sigue los pasos para la gestión de los Abonos:
 Un **Abono** te permite registrar un pago parcial sobre una cuenta, la cual esta a la espera de contemplar el pago de su totalidad.  
 
 <details><summary class="text-primary">1. Crear un Abono</summary>
-        <p>1.1 En la esquina inferior derecha, haz clic en <b>Boton + Rojo</b><span class=" text-danger"><img src="https://logis.com.co/app/img/add.png" width="15%"></span></p>
+        <p>1.1 En la esquina inferior derecha, haz clic en <b>Boton + Rojo</b></p>
         <p>1.2 Relaciona el Cliente buscandolo por nombre o número de documento.</p>
         <p>*Si el cliente es nuevo, puedes crearlo dando clic en el <b>icono rojo +</b>, ingresa los datos generales. Al guardar el cliente se relaciona automaticamente con el Abono actual.</p>
         <p>1.3 Haz clic en <b>Continuar</b>. Agrega el detalle del producto y/o servicio.</p>
