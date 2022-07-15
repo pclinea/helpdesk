@@ -1,4 +1,4 @@
-## **CATEGORÍA**
+## **CATEGORÍAS**
 
 Aquí puedes ver la lista de Categorias:  
 
