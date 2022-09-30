@@ -23,7 +23,6 @@ Un **Banco** es un tipo de entidad financiera de crédito cuyo principal fin es 
         <p>3.4 Visualiza la lista de Bancos en la ventana <b>Vista Previa Informes</b>.</p>
 </details>
 
-
-### **Video de la sección**
+<p class="mt-2">Video de la sección</p>
 
 <iframe class="mt-3" src="https://www.youtube.com/embed/_In-GyhpM1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
