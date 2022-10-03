@@ -29,7 +29,7 @@ Un **Tercero Auxiliar** es la persona que se encarga de ejecutar parte de las op
 <iframe class="mt-3"
 	width="90%"
 	height="100%"
-	src="https://youtu.be/3_qwVlvBRxg"
+	src="https://www.youtube.com/embed/3_qwVlvBRxg"
 	title="Terceros Auxiliares"
 	frameborder="0"
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
