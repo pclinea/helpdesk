@@ -30,3 +30,15 @@ Un **Cliente** es la persona o empresa receptora de un bien, servicio o producto
         <p>4.4 Haz clic en el bóton de la Impresora.</p>
         <p>4.5 Visualiza la información en la ventana <b>Vista Previa Informes</b>.</p>
 </details>
+
+<h5 class="mt-3">Video de la sección</p>
+
+<iframe class="mt-3"
+	width="90%"
+	height="100%"
+	src="https://www.youtube.com/embed/3VKW36A4Zlw"
+	title="Clientes"
+	frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen>
+</iframe>
