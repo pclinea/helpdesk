@@ -92,3 +92,15 @@ Un **Producto o Servicio** es el medio a través del cual un negocio puede satis
         <p>10.5 Visualiza la información en la ventana <b>Vista Previa Informes</b>.</p>
         <p>*Puedes imprimir o guardar la lista generada como PDF.</p>
 </details>
+
+<h5 class="mt-3">Video de la sección</p>
+
+<iframe class="mt-3"
+	width="90%"
+	height="100%"
+	src="https://youtu.be/-QJXO5ihbWI"
+	title="Productos"
+	frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen>
+</iframe>
