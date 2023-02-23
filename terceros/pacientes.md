@@ -1,4 +1,4 @@
-## **CLIENTES**
+## **PACIENTES**
 
 Sigue los pasos para la gestión de tus Pacientes:  
 
