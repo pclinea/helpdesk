@@ -10,7 +10,7 @@ Un **Paciente** es la persona receptora de los servicios de un médico u otro pr
         <p>*Puedes Buscar el nombre y apellido del Paciente con el No. de Documento. (Selecciona el Tipo de documento, digita el número de documento y haz clic en el icono de la lupa).</p>
         <p>1.3 Haz clic en el bóton <b>Guardar</b>.</p>
         <p>1.4 Al guardar apareceran las pestañas de Datos Adicionales y Fotografia.</p>
-        <p>Esta información es Opcional: Sexo, estado civil, fecha de nacimiento y una fotografia del paciente.</p>
+        <p>En estas registra la información adicional del paciente: Sexo, Estado civil, Fecha de nacimiento y una fotografia.</p>
 </details>
 
 <details><summary class="text-primary">2. Editar un Paciente</summary>
