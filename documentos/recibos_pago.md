@@ -1,4 +1,4 @@
-## **RECIBO DE PAGO PARA PACIENTES**
+## **RECIBO DE PAGO PACIENTES**
 
 Sigue los pasos para la gestión de los pagos por parte de los pacientes:
 
