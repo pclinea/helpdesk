@@ -1,8 +1,8 @@
 ## **RECIBO DE PAGO PARA PACIENTES**
 
-Sigue los pasos para la gestión de tus recibos de pago:  
+Sigue los pasos para la gestión de los pagos por parte de pacientes:
 
-Una **Factura de Venta** es un documento que respalda las actividades comerciales, puede ser venta de productos o servicios y la expide un vendedor a su cliente.  
+Una **Recibo de Pago** es un documento que respalda el pago por la prestación de un servicio.  
 
 <details><summary class="text-primary">1. Crear una Factura de Venta</summary>
         <p>1.1  En la esquina inferior derecha, haz clic en <b>Boton + Rojo</b></p>
