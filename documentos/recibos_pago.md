@@ -1,10 +1,10 @@
 ## **RECIBO DE PAGO PARA PACIENTES**
 
-Sigue los pasos para la gestión de los pagos por parte de pacientes:
+Sigue los pasos para la gestión de los pagos por parte de los pacientes:
 
 Una **Recibo de Pago** es un documento que respalda el pago por la prestación de un servicio.  
 
-<details><summary class="text-primary">1. Crear una Factura de Venta</summary>
+<details><summary class="text-primary">1. Crear un Recibo de Pago</summary>
         <p>1.1  En la esquina inferior derecha, haz clic en <b>Boton + Rojo</b></p>
         <p>1.2 La Fecha Expedición y Fecha Vencimiento se cargan con la fecha del día. El No. de Factura es un consecutivo automático del sistema.</p>
         <p>Selecciona el vendedor y relaciona el cliente buscandolo por No. de documento o Nombre. Si el cliente es nuevo puedes crearlo desde el icono Rojo. Al guardar el Cliente se relaciona con la Factura de Venta actual.</p>
