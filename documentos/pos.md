@@ -2,7 +2,7 @@
 
 Sigue los pasos para la gestión de tus Ventas POS:  
 
-Una **Venta POS (Documento equivalente)** es un documento usado como soporte de venta. Elaborado por quien no está obligado a expedir factura.  
+Una **Venta POS (Documento equivalente)** es un documento usado como soporte de venta.  
 
 <details><summary class="text-primary">1. Crear una Venta POS</summary>
         <p>1.1  En la esquina inferior derecha, haz clic en <b>Boton + Rojo</b></p>
