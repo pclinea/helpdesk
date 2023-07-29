@@ -25,3 +25,8 @@ Una **Venta POS (Documento equivalente)** es un documento usado como soporte de 
         <p>3.2 Digita la información en el campo por el que deseas buscar la Venta POS.</p>
         <p>3.4 Visualiza la información en la lista General de Ventas POS.</p>
 </details>
+
+<details><summary class="text-primary">Accesos directos desde el teclado</summary>
+        <p>F9 - Nuevo documento</p>
+        <p>F10 - Pagos y abonos</p>
+</details>
