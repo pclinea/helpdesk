@@ -1,6 +1,6 @@
 ## **BANCOS**
 
-Sigue los pasos para la gestión de Bancos utilizados en tu negocio para gestionar el efectivo:  
+Sigue estos pasos para administrar eficazmente los bancos utilizados en tu negocio y gestionar de manera eficiente los pagos por transferencia.
 
 Un **Banco** es un tipo de entidad financiera de crédito cuyo principal fin es el control y la administración del dinero por medio de operaciones financieras.
 
