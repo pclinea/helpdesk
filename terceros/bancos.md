@@ -6,7 +6,7 @@ Un **Banco** es un tipo de entidad financiera de crédito cuyo principal fin es 
 
 <details><summary class="text-primary">1. Crear un Banco</summary>
 					<p>1.1  En la esquina inferior derecha, haz clic en <b>Botón Rojo + </b></p>
-					<p>1.2 Ingresa los datos generales (Nombre del Banco,  Tipo de cuenta, No. de cuenta y Saldo inicial). No olvides activar el Banco para que aparezca en la lista de subcuentas.</p>
+					<p>1.2 Ingresa los datos generales (Nombre del Banco,  Tipo de cuenta, No. de cuenta y Saldo inicial). No olvides activar el Banco para que aparezca en la lista de subcuentas al momento de agregar un pago.</p>
 					<p>1.3 Haz clic en el botón <b>Guardar</b></p>
 </details>
 
