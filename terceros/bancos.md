@@ -13,7 +13,7 @@ Un **Banco** es un tipo de entidad financiera de crédito cuyo principal fin es 
 <details><summary class="text-primary">2. Editar un Banco</summary>
 				<p>2.1 Haz clic derecho sobre el Banco y selecciona la opción <b>Editar</b>.</p>
 				<p>2.2 Edita los campos requeridos del Banco.</p>
-				<p>Para editar el saldo disponible es necesario crear una conciliación.</p>
+				<p>Para editar el saldo disponible en un banco es necesario crear una conciliación.</p>
 				<p>2.3 Haz clic en el bóton <b>Guardar</b>.</p>
 </details>
 
@@ -21,7 +21,7 @@ Un **Banco** es un tipo de entidad financiera de crédito cuyo principal fin es 
         <p>3.1 Haz clic en el icono <b>Buscar</b> (Accesos Directos).</p>
         <p>3.2 Selecciona el <b>Reporte: Movimientos</b>.</p>
         <p>3.3 Haz clic en el botón de la Impresora.</p>
-        <p>3.4 Visualiza la lista de Bancos en la ventana <b>Vista Previa Informes</b>.</p>
+        <p>3.4 Visualiza la lista de Bancos y sus detalles de movimientos en la ventana <b>Vista Previa Informes</b>.</p>
 </details>
 
 <h5 class="mt-3">Video de la sección</p>
