@@ -13,6 +13,7 @@ Un **Banco** es un tipo de entidad financiera de crédito cuyo principal fin es 
 <details><summary class="text-primary">2. Editar un Banco</summary>
 				<p>2.1 Haz clic derecho sobre el Banco y selecciona la opción <b>Editar</b>.</p>
 				<p>2.2 Edita los campos requeridos del Banco.</p>
+				<p>Para editar el saldo disponible es necesario crear una conciliación.</p>
 				<p>2.3 Haz clic en el bóton <b>Guardar</b>.</p>
 </details>
 
