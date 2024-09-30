@@ -6,7 +6,7 @@ Un **Cliente** es la persona o empresa receptora de un bien, servicio o producto
 
 <details><summary class="text-primary">1. Crear un Cliente</summary>
         <p>1.1 En la esquina inferior derecha, haz clic en <b>Boton + Rojo</b></p>
-        <p>1.2 Ingresa los Datos Generales. Los datos mínimos requeridos son (No. de Documento, Nombre, Apellido y Teléfono)</p>
+        <p>1.2 Ingresa los Datos Generales. Los datos mínimos requeridos son (No. de Documento, Nombre, Apellido y Teléfono). El correo electrónico es útil para el envío de notificaciones o la factura electrónica. Los demás datos son informativos.</p>
         <p>*Puedes Buscar el Cliente o la Empresa por No. de Documento. (Selecciona el tipo de documento, digita el número de documento y haz clic en el icono de la lupa).</p>
         <p>1.3 Haz clic en el bóton <b>Guardar</b>.</p>
 </details>
