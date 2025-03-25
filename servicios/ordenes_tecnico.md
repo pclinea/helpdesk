@@ -21,9 +21,10 @@ Registro Fotográfico
         <p>1.6 En la pestaña <b>Registro Fotográfico</b> adjunta una foto del estado del equipo. Puedes tomar la foto con una cama web o subirla desde el PC local.</p>
         <p>1.7 Para finalizar haz clic en <b>Guardar</b>.</p>
         <p>*Al guardar una Orden de Servicio se envia al Cliente una notificación por mensaje SMS del ingreso del Equipo.</p>
-        <p>*Duarante el proceso de desarrollo del servicio puedes enviar una notificación por cambio de estado de la Orden.</p>
+        <p>*Duarante el proceso de desarrollo del servicio puedes enviar una notificación por cambio de estado de la Orden con el Diagnóstico.</p>
         <p>*Imprime una Orden de Servicio dando clic derecho sobre la Orden y opción <b>Imprimir</b> (Recibo POS).</p>
         <p>*Imprime una Orden de Servicio en Tamaño media carta dando clic derecho sobre la Orden y <b>Vista Previa</b>.</p>
+	<p>*Envia la orden de servicio al correo electronico del Cliente.</p>
         <p>*Puedes convertir una Orden de Servicio a Factura de Venta dando clic derecho sobre la orden y <b>Convertir</b>.</p>
 </details>
 
