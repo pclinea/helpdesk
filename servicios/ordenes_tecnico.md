@@ -11,7 +11,7 @@ Productos y Servicios
 Pagos y Abonos  
 Registro Fotográfico  
 
-<details><summary class="text-primary">1. Crear una Orden de Servicio Técnico</summary>
+<details><summary class="text-primary">1. Crea una Orden de Servicio Técnico</summary>
 	<p></p>
         <p>1.1  En la esquina inferior derecha, haz clic en <b>Boton + Rojo</b></p>
         <p>1.2 La Fecha Expedición y Fecha Vencimiento se cargan con la fecha actual del día. El No. de Factura es un consecutivo automático del sistema.</p>
@@ -29,21 +29,21 @@ Registro Fotográfico
         <p>*Puedes convertir una Orden de Servicio a Factura de Venta dando clic derecho sobre la orden y <b>Convertir</b>.</p>
 </details>
 
-<details><summary class="text-primary">2. Editar una Orden de Servicio Técnico</summary>
+<details><summary class="text-primary">2. Edita una Orden de Servicio Técnico</summary>
 	<p></p>
         <p>2.1 Haz clic derecho sobre la Orden de Servicio y selecciona la opción <b>Editar</b>.</p>
         <p>2.2 Edita el Cliente si es necesario. Agrega o elimina productos o servicios. Agrega o elimina pagos o abonos. Agregra una Nota u Observación en el diagnóstico. Agrega una fotografía.</p>
         <p>2.3 Haz clic en le bóton <b>Guardar</b> para salvar los cambios.</p>
 </details>
 
-<details><summary class="text-primary">3. Buscar una Orden de Servicio Técnico</summary>
+<details><summary class="text-primary">3. Busca una Orden de Servicio Técnico</summary>
 	<p></p>
         <p>3.1 Haz clic en el icono <b>Buscar</b> (Accesos Directos).</p>
         <p>3.2 Digita la información en el campo por el que deseas buscar la Orden de Servicio (número de la orden, documento o nombre del cliente).</p>
         <p>3.4 Visualiza la información en la lista General de Ordenes de Servicio.</p>
 </details>
 
-<details><summary class="text-primary">4. Generar un Reporte</summary>
+<details><summary class="text-primary">4. Genera un Reporte de ordenes</summary>
 	<p></p>
         <p>4.1 Haz clic en el icono <b>Buscar</b> (Accesos Directos).</p>
         <p>4.2 Digita la información en el campo por el que deseas filtrar las Ordenes de Servicio si es necesario.</p>
