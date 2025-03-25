@@ -25,27 +25,30 @@ Registro Fotográfico
         <p>*Duarante el proceso de desarrollo del servicio puedes enviar una notificación por cambio de estado de la Orden con el Diagnóstico.</p>
         <p>*Imprime una Orden de Servicio dando clic derecho sobre la Orden y opción <b>Imprimir</b> (Recibo POS).</p>
         <p>*Imprime una Orden de Servicio en Tamaño media carta dando clic derecho sobre la Orden y <b>Vista Previa</b>.</p>
-	<p>*Envia la orden de servicio al correo electronico del Cliente.</p>
+	<p>*Envia la orden de servicio al correo electronico del Cliente dando clic derecho sobre la Orden y Enviar -> E-mail.</p>
         <p>*Puedes convertir una Orden de Servicio a Factura de Venta dando clic derecho sobre la orden y <b>Convertir</b>.</p>
 </details>
 
 <details><summary class="text-primary">2. Editar una Orden de Servicio Técnico</summary>
+	<p></p>
         <p>2.1 Haz clic derecho sobre la Orden de Servicio y selecciona la opción <b>Editar</b>.</p>
-        <p>2.2 Edita el Cliente si es necesario. Agrega o elimina productos o servicios. Agrega un pago o abono. Agregra una Nota u Observación. Agrega una fotografía.</p>
-        <p>2.3 Haz clic en le bóton <b>Guardar</b>.</p>
+        <p>2.2 Edita el Cliente si es necesario. Agrega o elimina productos o servicios. Agrega o elimina pagos o abonos. Agregra una Nota u Observación en el diagnóstico. Agrega una fotografía.</p>
+        <p>2.3 Haz clic en le bóton <b>Guardar</b> para salvar los cambios.</p>
 </details>
 
 <details><summary class="text-primary">3. Buscar una Orden de Servicio Técnico</summary>
+	<p></p>
         <p>3.1 Haz clic en el icono <b>Buscar</b> (Accesos Directos).</p>
-        <p>3.2 Digita la información en el campo por el que deseas buscar la Orden de Servicio.</p>
+        <p>3.2 Digita la información en el campo por el que deseas buscar la Orden de Servicio (número de la orden, documento o nombre del cliente).</p>
         <p>3.4 Visualiza la información en la lista General de Ordenes de Servicio.</p>
 </details>
 
 <details><summary class="text-primary">4. Generar un Reporte</summary>
+	<p></p>
         <p>4.1 Haz clic en el icono <b>Buscar</b> (Accesos Directos).</p>
         <p>4.2 Digita la información en el campo por el que deseas filtrar las Ordenes de Servicio si es necesario.</p>
         <p>4.3 Selecciona el tipo de Reporte a Generar (Ordenes en Almacén).</p>
-        <p>4.4 Haz clic en el bóton de la Impresora.</p>
+        <p>4.4 Haz clic en el bóton azul con el icono de la Impresora.</p>
         <p>4.5 Visualiza la información en la ventana <b>Vista Previa Informes</b>.</p>
 </details>
 
@@ -54,7 +57,7 @@ Registro Fotográfico
 <iframe class="mt-3"
 	width="90%"
 	height="100%"
-	src="https://www.youtube.com/embed/8MG2C0Sp2K0"
+	src="https://www.youtube.com/embed/_j_MsA7FEyI?si=0rd8DN1vmxkmfNfs"
 	title="Ordenes de Servicio"
 	frameborder="0"
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
