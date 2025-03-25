@@ -12,6 +12,7 @@ Pagos y Abonos
 Registro Fotográfico  
 
 <details><summary class="text-primary">1. Crear una Orden de Servicio Técnico</summary>
+	<p></p>
         <p>1.1  En la esquina inferior derecha, haz clic en <b>Boton + Rojo</b></p>
         <p>1.2 La Fecha Expedición y Fecha Vencimiento se cargan con la fecha actual del día. El No. de Factura es un consecutivo automático del sistema.</p>
         <p>Selecciona el <b>Técnico Responsable</b> y relaciona el <b>Cliente</b> buscandolo por No. de documento o Nombre. Si el Cliente es nuevo puedes crearlo desde el <b>icono Rojo +</b>. Al guardar el Cliente se relaciona con la Orden actual.</p>
