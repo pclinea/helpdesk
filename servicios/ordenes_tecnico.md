@@ -15,7 +15,7 @@ Registro Fotográfico
 	<p></p>
         <p>1.1  En la esquina inferior derecha, haz clic en <b>Botón + Rojo</b></p>
         <p>1.2 La Fecha Expedición y Fecha Vencimiento se cargan con la fecha actual del día. El No. de Factura es un consecutivo automático del sistema.</p>
-        <p>1.3 Selecciona el <b>Responsable</b> (El técnico encaegado de la orden de servicio).
+        <p>1.3 Selecciona el <b>Responsable</b> (El técnico encargado de resolver la orden de servicio).
  	<p>1.4 Relaciona el <b>Cliente</b> buscandolo por No. de documento o Nombre. Si el Cliente es nuevo puedes crearlo desde el <b>icono Rojo +</b>. Al guardar el Cliente se relaciona con la Orden actual.</p>
         <p>1.5 En la pestaña <b>Descripción de Equipo</b> registra los datos generales del equipo que ingresa.</p>
         <p>1.6 En la pestaña <b>Productos y Servicios</b> busca los productos o servicios necesarios para cubrir la orden. Ajusta la cantidad y haz clic en <b>Agregar</b>.</p>
