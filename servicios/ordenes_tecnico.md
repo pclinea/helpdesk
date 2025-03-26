@@ -65,3 +65,4 @@ Registro Fotográfico
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen>
 </iframe>
+<sub>Última actualización: 26 de Marzo de 2025</sub>
