@@ -42,3 +42,5 @@ Un **Cliente** es la persona o empresa receptora de un bien, servicio o producto
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen>
 </iframe>
+<p></p>
+<sub>Última actualización: 26 de Marzo de 2025</sub>
