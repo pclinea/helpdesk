@@ -42,3 +42,5 @@ Un **Proveedor** es a aquella persona o empresa que provee o suministra un deter
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen>
 </iframe>
+<p></p>
+<sub>Última actualización: 28 de Marzo de 2025</sub>
