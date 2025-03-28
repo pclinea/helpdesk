@@ -27,3 +27,5 @@ El **Arqueo de Caja** consiste en contar el efectivo que hay en caja en un momen
         <p>Los campos <b>Sobrante y Faltente</b> son informativos. Indican el descuadre en Caja General actual.</p>
         <p>En el campo <b>TOTAL CAJA</b> digita el monto total de efectivo incluyendo base de caja.</p>
 </details>
+<p></p>
+<sub>Última actualización: 28 de Marzo de 2025</sub>
