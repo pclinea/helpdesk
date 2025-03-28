@@ -1,6 +1,6 @@
 ## **BANCOS**
 
-Sigue estos pasos para administrar eficazmente los bancos utilizados en tu negocio y gestionar de manera eficiente los pagos por transferencia.
+Sigue estos pasos para gestionar de manera eficiente los bancos registrados en tu negocio y organizar los pagos por transferencia de forma óptima.
 
 Un **Banco** es un tipo de entidad financiera de crédito cuyo principal fin es el control y la administración del dinero por medio de operaciones financieras.
 
@@ -35,3 +35,5 @@ Un **Banco** es un tipo de entidad financiera de crédito cuyo principal fin es 
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen>
 </iframe>
+<p></p>
+<sub>Última actualización: 28 de Marzo de 2025</sub>
