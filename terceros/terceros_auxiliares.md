@@ -6,7 +6,7 @@ Un **Tercero Auxiliar** es la persona que se encarga de ejecutar parte de las op
 
 <details><summary class="text-primary">1. Crear un Tercero Auxiliar</summary>
         <p>1.1  En la esquina inferior derecha, haz clic en <b>Boton + Rojo</b></p>
-        <p>1.2 Ingresa los datos generales (Nombre, Teléfono, Cargo).  El Usuario y Contraseña se utilizan para ingresar a la aplicación web de apoyo desde el celular. (Venta POS, Distribución, Bares y Restaurantes).</p>
+        <p>1.2 Ingresa los datos generales (Nombre, Teléfono, Cargo). El Usuario y Contraseña se utilizan para ingresar a la aplicación web de apoyo desde el celular. (Venta POS, Distribución, Bares y Restaurantes).</p>
         <p>*Puedes establecer una contraseña o generar una nueva dando al boton <b>Renovar</b></p>
         <p>1.3 Haz clic en el bóton <b>Guardar</b></p>
 </details>
@@ -35,3 +35,5 @@ Un **Tercero Auxiliar** es la persona que se encarga de ejecutar parte de las op
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen>
 </iframe>
+<p></p>
+<sub>Última actualización: 28 de Marzo de 2025</sub>
